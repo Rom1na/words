@@ -1,0 +1,109 @@
+
+
+
+
+body{
+    background-color: #111;
+    font-family: 'Roboto';
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+  canvas{
+    
+    margin: 0 auto ;
+    display: block;
+
+  }
+    
+.titulo{
+   color: #fff;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+
+#intento{
+  color:#269fbd;;
+  font-weight: 800;
+  text-align: center;
+  max-width: 75%;
+}
+
+
+
+button {
+  background-color: #269fbd;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.inactive{
+  color: #111;
+  background-color: #111;
+
+}
+
+
+.keypad{
+  
+  display: flex;
+  flex-direction: column;  /* Organiza los contenedores uno debajo de otro */
+  align-items: center;
+  justify-content: center;
+  width: 100%; 
+      
+}
+
+#contenedor,#contenedor1,#contenedor2{
+ 
+  display: flex;            /* Flexbox para alinear los botones horizontalmente */
+  justify-content: center;  /* Centra los botones horizontalmente */
+  margin-bottom: 10px;      /* Espaciado entre filas */
+  flex-wrap: wrap;          /* Permite que los botones se adapten en pantallas más pequeñas */
+  
+}
+
+
+#definicion{
+   color: #fff;
+   font-size: 1 em;
+   margin-top: 2 em;
+   margin-bottom: 2em;
+   max-width: 75%;
+   
+
+}
+
+/* Responsive adjustments for smaller screens */
+      @media (max-width: 768px) {
+          .keypad {
+              padding: 10px;
+          }
+
+          button {
+              padding: 8px 16px;
+              font-size: 14px;
+              margin: 3px;
+          }
+      }
+
+      @media (max-width: 480px) {
+          button {
+              padding: 6px 12px;
+              font-size: 12px;
+              margin: 2px;
+          }
+      }
+
+
