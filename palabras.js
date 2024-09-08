@@ -124,8 +124,8 @@ return this.substring(0, index) + replacement + this.substring(index + replaceme
          const data = await response.json();
          const word = data[0].word;
          const definition = data[0].meanings[0].definitions[0].definition;
-         console.log(`Palabra: ${word}`);
-         console.log(`Definición: ${definition}`);
+        // console.log(`Palabra: ${word}`);
+       //  console.log(`Definición: ${definition}`);
          return respuesta = {
              "word": word,
              "definition": definition,
@@ -227,7 +227,7 @@ function endGame (){
 
 function checkInput(letra){
   
-  endGame();   
+     
   
   for ( let l=0;l<respuesta.length;l++)  
     
@@ -240,7 +240,8 @@ function checkInput(letra){
 
     }
     
-    console.log(display)  
+    //console.log(display)  
+    endGame();
 
 
 }
@@ -351,7 +352,7 @@ async function usarRespuesta(op) {
     const resp = await traerPalabra(op);
     
     // usar la variable respuesta fuera de traerPalabra
-    console.log(resp);
+   // console.log(resp);
     respuesta = resp.word
     definicion= resp.definition;
     intentos =  respuesta.length *3;
@@ -361,7 +362,7 @@ async function usarRespuesta(op) {
     inti = document.getElementById('intento')
     inti.innerText =`letters left to try:${intentos}`;
     draw();
-    console.log('length',wordsArray.length);
+    //console.log('length',wordsArray.length);
 
 }
 
