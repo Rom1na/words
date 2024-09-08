@@ -176,7 +176,7 @@ function btnClick (event){
 
      }
     
-
+     
 }
 
 
@@ -199,7 +199,7 @@ function endGame (){
 
      let control = display.split("*").length-1
     
-     if (control == 1){
+     if (control == 0){
         inti.innerText =`Congratulations! You've found the word, click here to continue`
         inti.style.color = "lightgreen"
         inti.style.border ="3px solid lightgreen"
@@ -241,7 +241,7 @@ function checkInput(letra){
     }
     
     //console.log(display)  
-    endGame();
+   
 
 
 }
@@ -339,6 +339,7 @@ function drawLinea(pal,y){
 function draw(){
 
     drawPalabra(display);
+    endGame();
        
    window.requestAnimationFrame(draw);
 }
