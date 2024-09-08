@@ -62,7 +62,22 @@ button {
   align-items: center;
   justify-content: center;
   width: 100%; 
+  margin-bottom: 145px;
       
+}
+
+footer{
+      font-size:12px;
+      color: white;
+      width: 100%;
+      text-align: center;
+      background-color:#269fbd ;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      
+        
 }
 
 #contenedor,#contenedor1,#contenedor2{
