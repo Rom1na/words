@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juegos de Palabras</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+    <p class="parrafo"> Opciones:</p>
+    <p class="parrafo">Words!</p> <button id="btnI">English</button>
+    <p class="parrafo"> Palabras!</p> <button id ="btnE">Español</button>
+    
+</body>
+
+<script>
+    const botonI = document.getElementById('btnI');
+    const botonE = document.getElementById('btnE');
+
+    botonI.addEventListener('click', () => {
+    redirigir('palabras.html');
+    });
+
+    botonE.addEventListener('click', () => {
+    redirigir('words.html');
+    });
+    
+   function redirigir(enlace) {
+    window.location.href = enlace; 
+   }  
+
+   
+
+
+</script>
+</html>

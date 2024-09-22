@@ -1,0 +1,585 @@
+[
+  {"id": 1,
+   "palabra": "bosque",
+   "definicion": "Extensa área cubierta de árboles.", 
+   "categoria": "naturaleza"},
+  {"id": 2, 
+   "palabra": "atomo",
+   "definicion": "Unidad básica de la materia.",
+   "categoria": "ciencia"},
+  {"id": 3,
+   "palabra": "imperio",
+   "definicion": "Gran estado formado por la unión de varios pueblos.",
+   "categoria": "historia"},
+  {"id": 4,
+   "palabra":"oceano",
+   "definicion": "Gran extensión de agua salada que cubre la mayor parte de la superficie terrestre.",
+   "categoria": "naturaleza"},
+  {"id": 5,
+   "palabra":"molecula",
+   "definicion": "Grupo de átomos unidos entre sí.",
+   "categoria": "ciencia"},
+  {"id": 6,
+   "palabra":"revolucion",
+   "definicion":"Cambio radical y violento en el orden social y político.",
+   "categoria": "historia"},
+  {"id": 7,
+   "palabra": "celula",
+   "definicion": "Unidad estructural y funcional de todos los seres vivos.",
+   "categoria": "ciencia"}, 
+  {"id": 8,
+  "palabra": "civilizacion",
+  "definicion": "Grupo humano con un alto grado de desarrollo cultural.",
+   "categoria": "historia"},
+  {"id": 9,
+  "palabra": "rio", "definicion": "Corriente natural de agua que desemboca en el mar, un lago o otro río.",
+  "categoria": "naturaleza"},
+  {"id": 10,
+  "palabra":"sol",
+  "definicion": "Estrella alrededor de la cual gira la Tierra.",
+  "categoria": "naturaleza"},
+  {"id": 11,"palabra": "energia",
+  "definicion": "Capacidad para realizar trabajo.",
+  "categoria": "ciencia"},
+  {"id": 12,
+   "palabra": "guerra",
+   "definicion": "Conflicto armado entre estados o grupos sociales.",
+   "categoria": "historia"},
+  {"id": 13,
+   "palabra": "desierto",
+   "definicion":"Región árida con escasa vegetación.",
+   "categoria": "naturaleza"},
+  {"id": 14,
+   "palabra": "elemento",
+   "definicion": "Sustancia pura que no puede descomponerse en sustancias más simples.",
+   "categoria": "ciencia"},
+  {"id": 15,
+   "palabra":"renacimiento",
+   "definicion": "Período histórico de renovación cultural y artística en Europa.",
+   "categoria": "historia"},
+  {"id": 16,
+   "palabra":"bosque",
+   "definicion": "Extensa área cubierta de árboles.",
+   "categoria": "naturaleza"},
+  {"id": 17,
+   "palabra":"oceano",
+   "definicion": "Gran extensión de agua salada que cubre la mayor parte de la superficie terrestre.",
+   "categoria": "naturaleza"},
+  {"id": 18,
+   "palabra": "planta",
+   "definicion":"Ser vivo que fabrica su propio alimento.",
+   "categoria": "naturaleza"},
+  {"id": 19,
+  "palabra": "nucleo",
+  "definicion": "Parte central de un átomo.",
+  "categoria":"ciencia"},
+  {"id": 20,
+  "palabra":"feudalismo",
+  "definicion": "Sistema social y económico basado en la posesión de tierras.",
+   "categoria": "historia"},
+  {"id": 21,
+  "palabra":"oceano",
+  "definicion":"Gran extensión de agua salada que cubre la mayor parte de la superficie terrestre.",
+  "categoria": "naturaleza"},
+  {"id": 22,
+  "palabra":"molecula",
+  "definicion":"Grupo de átomos unidos entre sí.",
+  "categoria": "ciencia"},
+  {"id": 23,
+  "palabra":"revolucion",
+  "definicion": "Cambio radical y violento en el orden social y político.",
+  "categoria": "historia"},
+  {"id": 24,
+  "palabra":"sierra",
+  "definicion": "Elevación natural del terreno.",
+  "categoria": "naturaleza"},
+  {"id": 25,
+  "palabra":"celula",
+  "definicion": "Unidad estructural y funcional de todos los seres vivos.",
+  "categoria": "ciencia"},
+{
+  "id": 26,
+  "palabra": "fosil",
+  "definicion": "Resto petrificado de un ser vivo.",
+  "categoria": "ciencia"
+},
+{
+  "id": 27,
+  "palabra": "revolucion",
+  "definicion": "Cambio radical y violento en el orden social y político.",
+  "categoria": "historia"
+},
+{
+  "id": 28,
+  "palabra": "celula",
+  "definicion": "Unidad estructural y funcional de todos los seres vivos.",
+  "categoria": "ciencia"
+},
+{
+  "id": 29,
+  "palabra": "civilizacion",
+  "definicion": "Grupo humano con un alto grado de desarrollo cultural.",
+  "categoria": "historia"
+},
+{
+  "id": 30,
+  "palabra": "rio",
+  "definicion": "Corriente natural de agua que desemboca en el mar, un lago o otro río.",
+  "categoria": "naturaleza"
+},
+
+{
+  "id": 31,
+  "palabra": "filosofia",
+  "definicion": "Estudio de los fundamentos de la realidad y el conocimiento.",
+  "categoria": "humanidades"
+},
+{
+  "id": 32,
+  "palabra": "arte",
+  "definicion": "Expresión de la creatividad humana.",
+  "categoria": "humanidades"
+},
+{
+  "id": 33,
+  "palabra": "literatura",
+  "definicion": "Conjunto de obras escritas.",
+  "categoria": "humanidades"
+},
+{
+  "id": 34,
+  "palabra": "musica",
+  "definicion": "Arte de combinar sonidos.",
+  "categoria": "humanidades"
+},
+{
+  "id": 35,
+  "palabra": "pintura",
+  "definicion": "Arte de representar imágenes sobre una superficie.",
+  "categoria": "humanidades"
+},
+{
+  "id": 36,
+  "palabra": "escultura",
+  "definicion": "Arte de modelar figuras en tres dimensiones.",
+  "categoria": "humanidades"
+},
+{
+  "id": 37,
+  "palabra": "arquitectura",
+  "definicion": "Arte de proyectar y construir edificios.",
+  "categoria": "humanidades"
+},
+{
+  "id": 38,
+  "palabra": "ciencia",
+  "definicion": "Conjunto de conocimientos obtenidos mediante la observación y el razonamiento.",
+  "categoria": "ciencia"
+},
+{
+  "id": 39,
+  "palabra": "historia",
+  "definicion": "Narración de los acontecimientos pasados.",
+  "categoria": "historia"
+},
+{
+  "id": 40,
+  "palabra": "matematicas",
+  "definicion": "Ciencia que estudia las propiedades y relaciones entre números, magnitudes y figuras geométricas.",
+  "categoria": "ciencia"
+},
+{
+  "id": 41,
+  "palabra": "fisica",
+  "definicion": "Ciencia que estudia las propiedades y los cambios de la materia y la energía.",
+  "categoria": "ciencia"
+},
+{
+  "id": 41,
+  "palabra": "quimica",
+  "definicion": "Ciencia que estudia la composición, estructura y propiedades de la materia, así como los cambios que esta experimenta.",
+  "categoria": "ciencia"
+},
+{
+  "id": 43,
+  "palabra": "biologia",
+  "definicion": "Ciencia que estudia los seres vivos y sus procesos vitales.",
+  "categoria": "ciencia"
+},
+{
+  "id": 44,
+  "palabra": "geografia",
+  "definicion": "Ciencia que estudia la Tierra, sus relieves, climas, habitantes y recursos naturales.",
+  "categoria": "ciencia"
+},
+{
+  "id": 45,
+  "palabra": "economia",
+  "definicion": "Ciencia social que estudia la producción, distribución y consumo de bienes y servicios.",
+  "categoria": "ciencias sociales"
+},
+{
+  "id": 46,
+  "palabra": "politica",
+  "definicion": "Ciencia que estudia el ejercicio del poder y la organización de las sociedades.",
+  "categoria": "ciencias sociales"
+},
+{
+  "id": 47,
+  "palabra": "sociedad",
+  "definicion": "Conjunto de individuos unidos por relaciones sociales.",
+  "categoria": "ciencias sociales"
+},
+
+{
+  "id": 48,
+  "palabra": "natacion",
+  "definicion": "Deporte acuático de desplazarse en el agua.",
+  "categoria": "deporte"
+},
+{
+  "id": 49,
+  "palabra": "ciclismo",
+  "definicion": "Deporte de desplazarse en bicicleta.",
+  "categoria": "deporte"
+},
+{
+  "id": 50,
+  "palabra": "atletismo",
+  "definicion": "Deporte que incluye carreras, saltos y lanzamientos.",
+  "categoria": "deporte"
+},
+{
+  "id": 51,
+  "palabra": "tenis",
+  "definicion": "Deporte de raqueta que se juega en una pista.",
+  "categoria": "deporte"
+},
+{
+  "id": 52,
+  "palabra": "golf",
+  "definicion": "Deporte que consiste en introducir una bola en un hoyo con un palo.",
+  "categoria": "deporte"
+},
+{
+  "id": 53,
+  "palabra": "futbol",
+  "definicion": "Deporte de equipo que se juega con una pelota redonda.",
+  "categoria": "deporte"
+},
+{
+  "id": 54,
+  "palabra": "baloncesto",
+  "definicion": "Deporte de equipo que se juega con una pelota en una canasta.",
+  "categoria": "deporte"
+},
+{
+  "id": 55,
+  "palabra": "voleibol",
+  "definicion": "Deporte de equipo que se juega con una pelota sobre una red.",
+  "categoria": "deporte"
+},
+{
+  "id": 56,
+  "palabra": "beisbol",
+  "definicion": "Deporte de equipo que se juega con un bate y una pelota.",
+  "categoria": "deporte"
+},
+{
+  "id": 57,
+  "palabra": "balonmano",
+  "definicion": "Deporte de equipo similar al handball.",
+  "categoria": "deporte"
+},
+
+{
+  "id": 58,
+  "palabra": "bate",
+  "definicion": "Objeto utilizado para golpear una pelota en deportes como béisbol y cricket.",
+  "categoria": "instrumento deportivo"
+},
+{
+  "id": 59,
+  "palabra": "raqueta",
+  "definicion": "Objeto con una empuñadura y un marco encordado, utilizado en deportes como tenis y bádminton.",
+  "categoria": "instrumento deportivo"
+},
+{
+  "id": 60,
+  "palabra": "arco",
+  "definicion": "Arma deportiva utilizada para lanzar flechas.",
+  "categoria": "instrumento deportivo"
+},
+{
+  "id": 61,
+  "palabra": "guante",
+  "definicion": "Protección para las manos utilizada en diversos deportes.",
+  "categoria": "instrumento deportivo"
+},
+{
+  "id": 62,
+  "palabra": "casco",
+  "definicion": "Protección para la cabeza utilizada en deportes de contacto y riesgo.",
+  "categoria": "instrumento deportivo"
+},
+{
+  "id": 63,
+  "palabra": "sarten",
+  "definicion": "Utensilio de cocina para freír o cocinar a fuego lento.",
+  "categoria": "cocina"
+},
+{
+  "id": 64,
+  "palabra": "cuchillo",
+  "definicion": "Herramienta afilada para cortar alimentos.",
+  "categoria": "cocina"
+},
+{
+  "id": 65,  
+  "palabra": "horno",
+  "definicion": "Electrodoméstico para cocinar alimentos con calor.",
+  "categoria": "cocina"
+},
+{
+  "id": 66,
+  "palabra": "batidora",
+  "definicion": "Aparato eléctrico para mezclar ingredientes.",
+  "categoria": "cocina"
+},
+{
+  "id": 67,
+  "palabra": "espatula",
+  "definicion": "Utensilio para mezclar o remover alimentos.",
+  "categoria": "cocina"
+},
+{
+  "id": 68,
+  "palabra": "manzana",
+  "definicion": "Fruta redonda y generalmente de color rojo, verde o amarillo.",
+  "categoria": "alimento"
+},
+{
+  "id": 69,
+  "palabra": "arroz",
+  "definicion": "Semilla de una planta gramínea, alimento básico en muchas culturas.",
+  "categoria": "alimento"
+},
+{
+  "id": 70,
+  "palabra": "carne",
+  "definicion": "Parte comestible de los animales.",
+  "categoria": "alimento"
+},
+{
+  "id": 71,
+  "palabra": "pan",
+  "definicion": "Alimento elaborado a base de harina, agua y levadura.",
+  "categoria": "alimento"
+},
+{
+  "id": 72,
+  "palabra": "leche",
+  "definicion": "Líquido producido por las glándulas mamarias de las hembras de los mamíferos.",
+  "categoria": "alimento"
+},
+{
+  "id": 73,
+  "palabra": "banana",
+  "definicion": "Fruta alargada y amarilla, rica en potasio.",
+  "categoria": "alimento"
+},
+{
+  "id": 74,
+  "palabra": "naranja",
+  "definicion": "Fruto redondo de color naranja, rica en vitamina C.",
+  "categoria": "alimento"
+},
+{
+  "id": 75,
+  "palabra": "manzana",
+  "definicion": "Fruta redonda de diversas variedades y colores, rica en fibra.",
+  "categoria": "alimento"
+},
+{
+  "id": 76,
+  "palabra": "uva",
+  "definicion": "Fruto pequeño y redondo, que crece en racimos.",
+  "categoria": "alimento"
+},
+{
+  "id": 77,
+  "palabra": "fresa",
+  "definicion": "Fruta pequeña y roja, de sabor dulce y ácido.",
+  "categoria": "alimento"
+},
+{
+  "id": 78,
+  "palabra": "tomate",
+  "definicion": "Fruto redondo y carnoso, utilizado tanto como fruta como como verdura.",
+  "categoria": "alimento"
+},
+{
+  "id": 79,
+  "palabra": "zanahoria",
+  "definicion": "Raíz de color naranja, rica en vitamina A.",
+  "categoria": "alimento"
+},
+{
+  "id": 80,
+  "palabra": "cebolla",
+  "definicion": "Bulbo de sabor fuerte, utilizado en muchas preparaciones culinarias.",
+  "categoria": "alimento"
+},
+{
+  "id": 81,
+  "palabra": "lechuga",
+  "definicion": "Hoja verde, utilizada principalmente en ensaladas.",
+  "categoria": "alimento"
+},
+{
+  "id": 82,
+  "palabra": "brocoli",
+  "definicion": "Verdura crucífera con cabezas verdes y tallos gruesos.",
+  "categoria": "alimento"
+},
+{
+  "id": 83,
+  "palabra": "arroz",
+  "definicion": "Semilla de una planta gramínea, alimento básico en muchas culturas.",
+  "categoria": "alimento"
+},
+{
+  "id": 84,
+  "palabra": "trigo",
+  "definicion": "Cereal utilizado para hacer pan, pasta y otros productos.",
+  "categoria": "alimento"
+},
+{
+  "id": 85,
+  "palabra": "avena",
+  "definicion": "Cereal rico en fibra, utilizado en cereales para el desayuno y otros productos.",
+  "categoria": "alimento"
+},
+{
+  "id": 86,
+  "palabra": "maiz",
+  "definicion": "Cereal utilizado para hacer tortillas, harina de maíz y otros productos.",
+  "categoria": "alimento"
+},
+{
+  "id": 87,
+  "palabra": "cebada",
+  "definicion": "Cereal utilizado para hacer cerveza y otros productos.",
+  "categoria": "alimento"
+},
+{
+  "id": 88,
+  "palabra": "harina",
+  "definicion": "Polvo fino obtenido de moler cereales, utilizado para hacer pan, pasta y otros productos.",
+  "categoria": "alimento"
+},
+{
+  "id": 89,
+  "palabra": "pan",
+  "definicion": "Alimento elaborado a base de harina, agua y levadura.",
+  "categoria": "alimento"
+},
+{
+  "id": 90,
+  "palabra": "pasta",
+  "definicion": "Alimento elaborado a base de harina y agua, en forma de láminas o hilos.",
+  "categoria": "alimento"
+},
+{
+  "id": 91,
+  "palabra": "queso",
+  "definicion": "Alimento sólido obtenido por coagulación de la leche.",
+  "categoria": "alimento"
+},
+{
+"id": 92,
+"palabra": "yogur",
+"definicion": "Alimento lácteo obtenido por fermentación de la leche.",
+"categoria": "alimento"
+},
+{
+  "id": 93,
+  "palabra": "salchicha",
+  "definicion": "Embutido elaborado con carne picada, grasa y condimentos.",
+  "categoria": "alimento"
+},
+{
+  "id": 94,
+  "palabra": "jamon",
+  "definicion": "Carne curada de cerdo, generalmente de la pata trasera.",
+  "categoria": "alimento"
+},
+{
+  "id": 95,
+  "palabra": "chorizo",
+  "definicion": "Embutido curado y ahumado, con un sabor intenso y picante.",
+  "categoria": "alimento"
+},
+{
+  "id": 96,
+  "palabra": "mortadela",
+  "definicion": "Embutido cocido, con trozos de carne y grasa.",
+  "categoria": "alimento"
+},
+{
+  "id": 97,
+  "palabra": "salame",
+  "definicion": "Embutido curado y fermentado, con un sabor fuerte y seco.",
+  "categoria": "alimento"
+},
+{
+  "id": 100,
+  "palabra": "automovil",
+  "definicion": "Vehículo de motor con cuatro ruedas, diseñado para transportar personas.",
+  "categoria": "transporte"
+},
+{
+  "id": 101,
+  "palabra": "bicicleta",
+  "definicion": "Vehículo de dos ruedas propulsado por la fuerza humana.",
+  "categoria": "transporte"
+},
+{
+  "id": 102,
+  "palabra": "avion",
+  "definicion": "Vehículo aéreo más pesado que el aire, diseñado para transportar personas o carga.",
+  "categoria": "transporte"
+},
+{
+  "id": 103,
+  "palabra": "barco",
+  "definicion": "Vehículo diseñado para navegar por el agua.",
+  "categoria": "transporte"
+},
+{
+  "id": 104,
+  "palabra": "tren",
+  "definicion": "Vehículo terrestre que se desplaza sobre rieles.",
+  "categoria": "transporte"
+}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
