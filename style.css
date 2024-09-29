@@ -1,7 +1,5 @@
 
 
-
-
 body{
     background-color: #111;
     font-family: 'Roboto';
@@ -24,6 +22,7 @@ body{
     
 .titulo{
    color: #fff;
+   font-family:'Roboto';
   
 }
 
@@ -40,7 +39,7 @@ body{
   text-align: center;
   max-width: 75%;
   font-size: 1em;
-  font-family:'Courier New', Courier, monospace
+  font-family:inherit;
 
 }
 
@@ -96,6 +95,7 @@ footer{
       left: 0;
       bottom: 0;
       width: 100%;
+      font-family: inherit;
       
         
 }
