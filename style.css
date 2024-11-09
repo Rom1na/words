@@ -17,7 +17,7 @@ body{
     
     margin: 0 auto ;
     display: block;
-
+   
   }
     
 .titulo{
@@ -139,6 +139,16 @@ footer{
               font-size: 12px;
               margin: 2px;
           }
+          canvas {
+            width: 100%;
+            height: auto;
+            padding: 5%;
+          }
+          
+
+
+
+
       }
 
 
