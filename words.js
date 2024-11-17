@@ -258,7 +258,7 @@ function initEvents(){
 
        
         const {key} = event
-        inp = key;
+        inp = key.toUpperCase();
         checkInput(inp);
     
     }
